@@ -1,6 +1,5 @@
 <html>
   <head>
-    <title>CIDEAD - PIA - Tarea 1</title>
   </head>
   <body>
     <h1>DESCRIPCIÓN DE LA TAREA</h1>
